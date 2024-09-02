@@ -1,5 +1,5 @@
 if [[ -z $ZSH_THEME_CLOUD_PREFIX ]]; then
-    ZSH_THEME_CLOUD_PREFIX=' 𝔉𝔩𝔦𝔱𝔠𝔥𝔢𝔯'
+    ZSH_THEME_CLOUD_PREFIX=' 𝔉 𝔩𝔦𝔱𝔠𝔥𝔢𝔯'
 fi
 
 #➤𝔅𝔢𝔭𝔬𝔦𝔰𝔰𝔬 > 𝔟𝔢𝔭𝔬𝔦𝔰𝔰𝔬
