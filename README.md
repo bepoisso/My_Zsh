@@ -16,4 +16,5 @@ Alternatively, the installer is also mirrored outside GitHub. Using this URL ins
 
 Add themes and aliases : 
 `cd ~ && git clone git@github.com:Benjamin-poisson/My_Zsh.git`
-`mv ~/.zshrc ~/.old_zshrc && cp ~/My_Zsh/zshrc ~/.zshrc && cp ~/My_Zsh/themes/flitcher.zsh-theme ~/.oh-my-zsh/themes/`
+
+`mv ~/.zshrc ~/.old_zshrc && cp ~/My_Zsh/zshrc ~/.zshrc && cp ~/My_Zsh/themes/flitcher.zsh-theme ~/.oh-my-zsh/themes/ && source ~/.zshrc`
